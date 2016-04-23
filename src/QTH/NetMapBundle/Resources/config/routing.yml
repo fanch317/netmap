@@ -1,0 +1,3 @@
+net_map_homepage:
+    path:     /
+    defaults: { _controller: NetMapBundle:Default:index }

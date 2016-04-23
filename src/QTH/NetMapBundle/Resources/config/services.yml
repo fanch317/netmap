@@ -1,0 +1,4 @@
+services:
+#    net_map.example:
+#        class: QTH\NetMapBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

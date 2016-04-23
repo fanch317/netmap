@@ -1,0 +1,4 @@
+net_map:
+    resource: "@NetMapBundle/Resources/config/routing.yml"
+    prefix:   /
+
