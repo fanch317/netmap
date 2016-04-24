@@ -58,7 +58,7 @@ class Plug
      */
     private $port;
 
-    
+
     /**
      * Get id
      *
